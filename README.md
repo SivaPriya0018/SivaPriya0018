@@ -34,8 +34,3 @@ I'm a **Data Scientist** passionate about solving real-world problems using data
 
 ### 👀 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=SivaPriya0018&color=green)
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/SivaPriya0018/SivaPriya0018/blob/output/github-contribution-grid-snake.svg)
-
